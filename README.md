@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript. i have started my programming journey in june 2021 and have already got my first certification in resposive web design. always looking to learn more
 - 💞️ I’m looking to collaborate with tech companies specially the ones working on clean energies!
 - 📫 reach me at ryanetedali@gmail.com
-my goal is to build an AI-driven company which will be working on sustainable energies to rescue our one and only planet.
+- my goal is to build an AI-driven company which will be working on sustainable energies to rescue our one and only planet.
 thanks for your time. 
 
 <!---
