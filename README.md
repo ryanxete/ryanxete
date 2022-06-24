@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryanxete
+- 👋 Hi, I’m Ryan Etedali
 - interested in making big impacts on our hometown which is called "the earth" through programming.
 - I’m looking to collaborate with tech companies specially the ones working on clean energies!
 - reach me at ryanetedali@gmail.com
