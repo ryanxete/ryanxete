@@ -3,6 +3,8 @@
 - I’m looking to collaborate with tech companies specially the ones working on clean energies!
 - reach me at ryanetedali@gmail.com
 - my goal is to build an AI-driven company which will be working on sustainable energies to rescue our one and only planet.
+
+
 thanks for your time. 
 
 <!---
