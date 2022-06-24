@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Etedali
-- interested in making big impacts on our hometown which is called "the earth" through programming.
+- interested in making big impacts on our hometown "earth" through programming.
 - I’m looking to collaborate with tech companies specially the ones working on clean energies!
 - reach me at ryanetedali@gmail.com
 - my goal is to build an AI-driven company which will be working on sustainable energies to rescue our one and only planet.
